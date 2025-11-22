@@ -1,0 +1,59 @@
+{
+  "list_name": "Government - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "U.S. government agencies and official resources",
+  "category": "government",
+  "domains": [
+    {
+      "url": "usa.gov",
+      "category": "government",
+      "description": "Official U.S. government portal"
+    },
+    {
+      "url": "congress.gov",
+      "category": "government",
+      "description": "U.S. legislative information"
+    },
+    {
+      "url": "supremecourt.gov",
+      "category": "government",
+      "description": "U.S. Supreme Court"
+    },
+    {
+      "url": "irs.gov",
+      "category": "government",
+      "description": "Internal Revenue Service"
+    },
+    {
+      "url": "sec.gov",
+      "category": "government",
+      "description": "Securities and Exchange Commission"
+    },
+    {
+      "url": "fda.gov",
+      "category": "government",
+      "description": "Food and Drug Administration"
+    },
+    {
+      "url": "epa.gov",
+      "category": "government",
+      "description": "Environmental Protection Agency"
+    },
+    {
+      "url": "data.gov",
+      "category": "government",
+      "description": "Open government data"
+    },
+    {
+      "url": "regulations.gov",
+      "category": "government",
+      "description": "Federal regulations and rulemaking"
+    },
+    {
+      "url": "gsa.gov",
+      "category": "government",
+      "description": "General Services Administration"
+    }
+  ]
+}

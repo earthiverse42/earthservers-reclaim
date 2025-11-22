@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Health & Medical",
+  "description": "Medical information, health resources, and wellness sites",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "mayoclinic.org", "category": "health", "trust_score": 0.95 },
+    { "url": "webmd.com", "category": "health", "trust_score": 0.75 },
+    { "url": "healthline.com", "category": "health", "trust_score": 0.75 },
+    { "url": "medlineplus.gov", "category": "health", "trust_score": 0.95 },
+    { "url": "clevelandclinic.org", "category": "health", "trust_score": 0.90 },
+    { "url": "hopkinsmedicine.org", "category": "health", "trust_score": 0.90 },
+    { "url": "health.harvard.edu", "category": "health", "trust_score": 0.90 },
+    { "url": "drugs.com", "category": "health", "trust_score": 0.80 },
+    { "url": "medscape.com", "category": "health", "trust_score": 0.85 },
+    { "url": "cochrane.org", "category": "health", "trust_score": 0.95 },
+    { "url": "uptodate.com", "category": "health", "trust_score": 0.95 },
+    { "url": "statnews.com", "category": "health", "trust_score": 0.80 }
+  ]
+}

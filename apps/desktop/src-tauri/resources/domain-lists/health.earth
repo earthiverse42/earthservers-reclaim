@@ -1,0 +1,59 @@
+{
+  "list_name": "Health - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Medical information, health resources, and research databases",
+  "category": "health",
+  "domains": [
+    {
+      "url": "nih.gov",
+      "category": "health",
+      "description": "National Institutes of Health"
+    },
+    {
+      "url": "cdc.gov",
+      "category": "health",
+      "description": "Centers for Disease Control"
+    },
+    {
+      "url": "who.int",
+      "category": "health",
+      "description": "World Health Organization"
+    },
+    {
+      "url": "mayoclinic.org",
+      "category": "health",
+      "description": "Mayo Clinic health information"
+    },
+    {
+      "url": "webmd.com",
+      "category": "health",
+      "description": "Health information and tools"
+    },
+    {
+      "url": "healthline.com",
+      "category": "health",
+      "description": "Health and wellness information"
+    },
+    {
+      "url": "medlineplus.gov",
+      "category": "health",
+      "description": "NIH health information"
+    },
+    {
+      "url": "pubmed.ncbi.nlm.nih.gov",
+      "category": "health",
+      "description": "Medical research database"
+    },
+    {
+      "url": "psychologytoday.com",
+      "category": "health",
+      "description": "Mental health resources"
+    },
+    {
+      "url": "health.harvard.edu",
+      "category": "health",
+      "description": "Harvard Medical School health blog"
+    }
+  ]
+}

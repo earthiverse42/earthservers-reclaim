@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Finance & Economics",
+  "description": "Financial news, economic data, and investment resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "fred.stlouisfed.org", "category": "finance", "trust_score": 0.95 },
+    { "url": "federalreserve.gov", "category": "finance", "trust_score": 0.90 },
+    { "url": "sec.gov", "category": "finance", "trust_score": 0.90 },
+    { "url": "tradingeconomics.com", "category": "finance", "trust_score": 0.85 },
+    { "url": "investing.com", "category": "finance", "trust_score": 0.70 },
+    { "url": "marketwatch.com", "category": "finance", "trust_score": 0.75 },
+    { "url": "cnbc.com", "category": "finance", "trust_score": 0.70 },
+    { "url": "morningstar.com", "category": "finance", "trust_score": 0.80 },
+    { "url": "seekingalpha.com", "category": "finance", "trust_score": 0.65 },
+    { "url": "finance.yahoo.com", "category": "finance", "trust_score": 0.70 },
+    { "url": "nber.org", "category": "finance", "trust_score": 0.90 },
+    { "url": "brookings.edu", "category": "finance", "trust_score": 0.80 }
+  ]
+}

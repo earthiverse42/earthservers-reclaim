@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Local & Community",
+  "description": "Local news aggregators and community-focused resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "patch.com", "category": "local", "trust_score": 0.70 },
+    { "url": "nextdoor.com", "category": "local", "trust_score": 0.60 },
+    { "url": "localnewsinitiative.northwestern.edu", "category": "local", "trust_score": 0.85 },
+    { "url": "civicnewscompany.com", "category": "local", "trust_score": 0.75 },
+    { "url": "reportforamerica.org", "category": "local", "trust_score": 0.80 },
+    { "url": "lionpublishers.com", "category": "local", "trust_score": 0.75 }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "list_name": "Education - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Free learning resources, universities, and educational platforms",
+  "category": "education",
+  "domains": [
+    {
+      "url": "khanacademy.org",
+      "category": "education",
+      "description": "Free online learning platform"
+    },
+    {
+      "url": "coursera.org",
+      "category": "education",
+      "description": "University courses online"
+    },
+    {
+      "url": "edx.org",
+      "category": "education",
+      "description": "University-level online courses"
+    },
+    {
+      "url": "mit.edu",
+      "category": "education",
+      "description": "MIT OpenCourseWare"
+    },
+    {
+      "url": "stanford.edu",
+      "category": "education",
+      "description": "Stanford University resources"
+    },
+    {
+      "url": "wikipedia.org",
+      "category": "education",
+      "description": "Free encyclopedia"
+    },
+    {
+      "url": "archive.org",
+      "category": "education",
+      "description": "Internet Archive - books, media, websites"
+    },
+    {
+      "url": "openstax.org",
+      "category": "education",
+      "description": "Free peer-reviewed textbooks"
+    },
+    {
+      "url": "gutenberg.org",
+      "category": "education",
+      "description": "Free ebooks"
+    },
+    {
+      "url": "scholar.google.com",
+      "category": "education",
+      "description": "Academic search engine"
+    }
+  ]
+}

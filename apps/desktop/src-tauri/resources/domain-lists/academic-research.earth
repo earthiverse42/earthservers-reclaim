@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Academic & Research",
+  "description": "Academic journals, research institutions, and scholarly resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "scholar.google.com", "category": "academic", "trust_score": 0.90 },
+    { "url": "pubmed.ncbi.nlm.nih.gov", "category": "academic", "trust_score": 0.95 },
+    { "url": "nature.com", "category": "academic", "trust_score": 0.95 },
+    { "url": "science.org", "category": "academic", "trust_score": 0.95 },
+    { "url": "arxiv.org", "category": "academic", "trust_score": 0.85 },
+    { "url": "jstor.org", "category": "academic", "trust_score": 0.90 },
+    { "url": "researchgate.net", "category": "academic", "trust_score": 0.80 },
+    { "url": "semanticscholar.org", "category": "academic", "trust_score": 0.85 },
+    { "url": "sciencedirect.com", "category": "academic", "trust_score": 0.90 },
+    { "url": "springer.com", "category": "academic", "trust_score": 0.90 },
+    { "url": "wiley.com", "category": "academic", "trust_score": 0.90 },
+    { "url": "nih.gov", "category": "academic", "trust_score": 0.95 },
+    { "url": "cdc.gov", "category": "academic", "trust_score": 0.90 },
+    { "url": "who.int", "category": "academic", "trust_score": 0.85 },
+    { "url": "mit.edu", "category": "academic", "trust_score": 0.90 },
+    { "url": "stanford.edu", "category": "academic", "trust_score": 0.90 },
+    { "url": "harvard.edu", "category": "academic", "trust_score": 0.90 }
+  ]
+}

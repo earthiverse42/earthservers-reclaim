@@ -1,0 +1,59 @@
+{
+  "list_name": "Shopping - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "E-commerce, marketplaces, and online retailers",
+  "category": "shopping",
+  "domains": [
+    {
+      "url": "etsy.com",
+      "category": "shopping",
+      "description": "Handmade and vintage marketplace"
+    },
+    {
+      "url": "ebay.com",
+      "category": "shopping",
+      "description": "Auction and shopping site"
+    },
+    {
+      "url": "craigslist.org",
+      "category": "shopping",
+      "description": "Local classifieds"
+    },
+    {
+      "url": "reverb.com",
+      "category": "shopping",
+      "description": "Musical instruments marketplace"
+    },
+    {
+      "url": "discogs.com",
+      "category": "shopping",
+      "description": "Music marketplace and database"
+    },
+    {
+      "url": "aliexpress.com",
+      "category": "shopping",
+      "description": "International online marketplace"
+    },
+    {
+      "url": "newegg.com",
+      "category": "shopping",
+      "description": "Computer parts and electronics"
+    },
+    {
+      "url": "bhphotovideo.com",
+      "category": "shopping",
+      "description": "Photography and electronics"
+    },
+    {
+      "url": "amazon.com",
+      "category": "shopping",
+      "description": "Online marketplace"
+    },
+    {
+      "url": "bookshop.org",
+      "category": "shopping",
+      "description": "Support independent bookstores"
+    }
+  ]
+}

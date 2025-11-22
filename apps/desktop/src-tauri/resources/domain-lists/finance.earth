@@ -1,0 +1,59 @@
+{
+  "list_name": "Finance - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Financial news, markets, and investment resources",
+  "category": "finance",
+  "domains": [
+    {
+      "url": "bloomberg.com",
+      "category": "finance",
+      "description": "Business and financial news"
+    },
+    {
+      "url": "reuters.com",
+      "category": "finance",
+      "description": "Financial news and markets"
+    },
+    {
+      "url": "ft.com",
+      "category": "finance",
+      "description": "Financial Times"
+    },
+    {
+      "url": "wsj.com",
+      "category": "finance",
+      "description": "Wall Street Journal"
+    },
+    {
+      "url": "marketwatch.com",
+      "category": "finance",
+      "description": "Stock market and financial news"
+    },
+    {
+      "url": "investopedia.com",
+      "category": "finance",
+      "description": "Financial education"
+    },
+    {
+      "url": "fool.com",
+      "category": "finance",
+      "description": "Investment advice and analysis"
+    },
+    {
+      "url": "sec.gov",
+      "category": "finance",
+      "description": "SEC filings and regulations"
+    },
+    {
+      "url": "federalreserve.gov",
+      "category": "finance",
+      "description": "Federal Reserve"
+    },
+    {
+      "url": "tradingview.com",
+      "category": "finance",
+      "description": "Market charts and analysis"
+    }
+  ]
+}

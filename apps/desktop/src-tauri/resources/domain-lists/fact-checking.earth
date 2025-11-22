@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Fact-Checking",
+  "description": "Independent fact-checking organizations and resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "snopes.com", "category": "fact-check", "trust_score": 0.85 },
+    { "url": "politifact.com", "category": "fact-check", "trust_score": 0.80 },
+    { "url": "factcheck.org", "category": "fact-check", "trust_score": 0.85 },
+    { "url": "fullfact.org", "category": "fact-check", "trust_score": 0.85 },
+    { "url": "chequeado.com", "category": "fact-check", "trust_score": 0.80 },
+    { "url": "poynter.org", "category": "fact-check", "trust_score": 0.85 },
+    { "url": "mediabiasfactcheck.com", "category": "fact-check", "trust_score": 0.75 },
+    { "url": "allsides.com", "category": "fact-check", "trust_score": 0.75 },
+    { "url": "opensecrets.org", "category": "fact-check", "trust_score": 0.85 },
+    { "url": "ballotpedia.org", "category": "fact-check", "trust_score": 0.85 }
+  ]
+}

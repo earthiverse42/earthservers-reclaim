@@ -1,0 +1,59 @@
+{
+  "list_name": "Reference - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Encyclopedias, dictionaries, and reference materials",
+  "category": "reference",
+  "domains": [
+    {
+      "url": "wikipedia.org",
+      "category": "reference",
+      "description": "Free encyclopedia"
+    },
+    {
+      "url": "wiktionary.org",
+      "category": "reference",
+      "description": "Free dictionary"
+    },
+    {
+      "url": "britannica.com",
+      "category": "reference",
+      "description": "Encyclopedia Britannica"
+    },
+    {
+      "url": "merriam-webster.com",
+      "category": "reference",
+      "description": "Dictionary and thesaurus"
+    },
+    {
+      "url": "dictionary.com",
+      "category": "reference",
+      "description": "Online dictionary"
+    },
+    {
+      "url": "etymonline.com",
+      "category": "reference",
+      "description": "Etymology dictionary"
+    },
+    {
+      "url": "wolfram.com",
+      "category": "reference",
+      "description": "Computational knowledge"
+    },
+    {
+      "url": "wolframalpha.com",
+      "category": "reference",
+      "description": "Computational engine"
+    },
+    {
+      "url": "archive.org",
+      "category": "reference",
+      "description": "Digital library and archive"
+    },
+    {
+      "url": "loc.gov",
+      "category": "reference",
+      "description": "Library of Congress"
+    }
+  ]
+}

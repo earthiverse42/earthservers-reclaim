@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Science & Environment",
+  "description": "Science news, climate research, and environmental resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "scientificamerican.com", "category": "science", "trust_score": 0.85 },
+    { "url": "newscientist.com", "category": "science", "trust_score": 0.80 },
+    { "url": "sciencenews.org", "category": "science", "trust_score": 0.85 },
+    { "url": "livescience.com", "category": "science", "trust_score": 0.75 },
+    { "url": "quantamagazine.org", "category": "science", "trust_score": 0.90 },
+    { "url": "climate.gov", "category": "science", "trust_score": 0.90 },
+    { "url": "ipcc.ch", "category": "science", "trust_score": 0.90 },
+    { "url": "carbonbrief.org", "category": "science", "trust_score": 0.85 },
+    { "url": "skepticalscience.com", "category": "science", "trust_score": 0.80 },
+    { "url": "earthobservatory.nasa.gov", "category": "science", "trust_score": 0.95 },
+    { "url": "phys.org", "category": "science", "trust_score": 0.75 },
+    { "url": "eurekalert.org", "category": "science", "trust_score": 0.80 }
+  ]
+}

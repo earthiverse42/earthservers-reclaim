@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Mainstream News",
+  "description": "Major news outlets and wire services",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "reuters.com", "category": "news", "trust_score": 0.85 },
+    { "url": "apnews.com", "category": "news", "trust_score": 0.85 },
+    { "url": "bbc.com", "category": "news", "trust_score": 0.80 },
+    { "url": "npr.org", "category": "news", "trust_score": 0.75 },
+    { "url": "pbs.org", "category": "news", "trust_score": 0.75 },
+    { "url": "cnn.com", "category": "news", "trust_score": 0.65 },
+    { "url": "nytimes.com", "category": "news", "trust_score": 0.70 },
+    { "url": "washingtonpost.com", "category": "news", "trust_score": 0.70 },
+    { "url": "wsj.com", "category": "news", "trust_score": 0.75 },
+    { "url": "bloomberg.com", "category": "news", "trust_score": 0.75 },
+    { "url": "theguardian.com", "category": "news", "trust_score": 0.70 },
+    { "url": "economist.com", "category": "news", "trust_score": 0.80 },
+    { "url": "ft.com", "category": "news", "trust_score": 0.80 },
+    { "url": "aljazeera.com", "category": "news", "trust_score": 0.70 },
+    { "url": "dw.com", "category": "news", "trust_score": 0.75 }
+  ]
+}

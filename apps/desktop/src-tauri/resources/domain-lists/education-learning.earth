@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Education & Learning",
+  "description": "Educational platforms, online courses, and learning resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "coursera.org", "category": "education", "trust_score": 0.85 },
+    { "url": "edx.org", "category": "education", "trust_score": 0.85 },
+    { "url": "udemy.com", "category": "education", "trust_score": 0.70 },
+    { "url": "codecademy.com", "category": "education", "trust_score": 0.80 },
+    { "url": "freecodecamp.org", "category": "education", "trust_score": 0.85 },
+    { "url": "brilliant.org", "category": "education", "trust_score": 0.85 },
+    { "url": "duolingo.com", "category": "education", "trust_score": 0.80 },
+    { "url": "ted.com", "category": "education", "trust_score": 0.80 },
+    { "url": "masterclass.com", "category": "education", "trust_score": 0.75 },
+    { "url": "skillshare.com", "category": "education", "trust_score": 0.70 },
+    { "url": "ocw.mit.edu", "category": "education", "trust_score": 0.95 },
+    { "url": "open.edu", "category": "education", "trust_score": 0.85 }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "list_name": "Entertainment - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Movies, music, gaming, and entertainment reviews",
+  "category": "entertainment",
+  "domains": [
+    {
+      "url": "imdb.com",
+      "category": "entertainment",
+      "description": "Movie and TV database"
+    },
+    {
+      "url": "rottentomatoes.com",
+      "category": "entertainment",
+      "description": "Movie and TV reviews"
+    },
+    {
+      "url": "metacritic.com",
+      "category": "entertainment",
+      "description": "Aggregate review scores"
+    },
+    {
+      "url": "letterboxd.com",
+      "category": "entertainment",
+      "description": "Social film discovery"
+    },
+    {
+      "url": "pitchfork.com",
+      "category": "entertainment",
+      "description": "Music reviews and news"
+    },
+    {
+      "url": "rollingstone.com",
+      "category": "entertainment",
+      "description": "Music and culture magazine"
+    },
+    {
+      "url": "polygon.com",
+      "category": "entertainment",
+      "description": "Gaming news and reviews"
+    },
+    {
+      "url": "ign.com",
+      "category": "entertainment",
+      "description": "Gaming and entertainment"
+    },
+    {
+      "url": "bandcamp.com",
+      "category": "entertainment",
+      "description": "Independent music platform"
+    },
+    {
+      "url": "soundcloud.com",
+      "category": "entertainment",
+      "description": "Music streaming and sharing"
+    }
+  ]
+}

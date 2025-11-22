@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Independent Journalism",
+  "description": "Independent and investigative journalism outlets",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "propublica.org", "category": "journalism", "trust_score": 0.90 },
+    { "url": "theintercept.com", "category": "journalism", "trust_score": 0.75 },
+    { "url": "revealnews.org", "category": "journalism", "trust_score": 0.85 },
+    { "url": "icij.org", "category": "journalism", "trust_score": 0.90 },
+    { "url": "bellingcat.com", "category": "journalism", "trust_score": 0.85 },
+    { "url": "themarkup.org", "category": "journalism", "trust_score": 0.85 },
+    { "url": "thecorrespondent.com", "category": "journalism", "trust_score": 0.80 },
+    { "url": "motherjones.com", "category": "journalism", "trust_score": 0.70 },
+    { "url": "reason.com", "category": "journalism", "trust_score": 0.70 },
+    { "url": "jacobinmag.com", "category": "journalism", "trust_score": 0.65 },
+    { "url": "nationalreview.com", "category": "journalism", "trust_score": 0.65 },
+    { "url": "theatlantic.com", "category": "journalism", "trust_score": 0.75 },
+    { "url": "newyorker.com", "category": "journalism", "trust_score": 0.80 }
+  ]
+}

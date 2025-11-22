@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Technology & Programming",
+  "description": "Tech news, programming resources, and developer documentation",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "github.com", "category": "technology", "trust_score": 0.85 },
+    { "url": "stackoverflow.com", "category": "technology", "trust_score": 0.80 },
+    { "url": "developer.mozilla.org", "category": "technology", "trust_score": 0.95 },
+    { "url": "docs.microsoft.com", "category": "technology", "trust_score": 0.90 },
+    { "url": "docs.google.com", "category": "technology", "trust_score": 0.85 },
+    { "url": "rust-lang.org", "category": "technology", "trust_score": 0.95 },
+    { "url": "python.org", "category": "technology", "trust_score": 0.95 },
+    { "url": "nodejs.org", "category": "technology", "trust_score": 0.90 },
+    { "url": "react.dev", "category": "technology", "trust_score": 0.90 },
+    { "url": "vuejs.org", "category": "technology", "trust_score": 0.90 },
+    { "url": "kubernetes.io", "category": "technology", "trust_score": 0.90 },
+    { "url": "docker.com", "category": "technology", "trust_score": 0.85 },
+    { "url": "techcrunch.com", "category": "technology", "trust_score": 0.70 },
+    { "url": "arstechnica.com", "category": "technology", "trust_score": 0.80 },
+    { "url": "wired.com", "category": "technology", "trust_score": 0.75 },
+    { "url": "theverge.com", "category": "technology", "trust_score": 0.70 },
+    { "url": "hackernews.com", "category": "technology", "trust_score": 0.70 }
+  ]
+}

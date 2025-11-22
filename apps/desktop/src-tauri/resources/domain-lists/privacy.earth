@@ -1,0 +1,59 @@
+{
+  "list_name": "Privacy & Freedom - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Digital rights, privacy tools, and tech freedom resources",
+  "category": "privacy",
+  "domains": [
+    {
+      "url": "eff.org",
+      "category": "privacy",
+      "description": "Electronic Frontier Foundation"
+    },
+    {
+      "url": "fsf.org",
+      "category": "privacy",
+      "description": "Free Software Foundation"
+    },
+    {
+      "url": "privacyguides.org",
+      "category": "privacy",
+      "description": "Privacy tools and recommendations"
+    },
+    {
+      "url": "torproject.org",
+      "category": "privacy",
+      "description": "Tor anonymity network"
+    },
+    {
+      "url": "mullvad.net",
+      "category": "privacy",
+      "description": "Privacy-focused VPN"
+    },
+    {
+      "url": "protonmail.com",
+      "category": "privacy",
+      "description": "Encrypted email service"
+    },
+    {
+      "url": "duckduckgo.com",
+      "category": "privacy",
+      "description": "Privacy-focused search engine"
+    },
+    {
+      "url": "openstreetmap.org",
+      "category": "privacy",
+      "description": "Open-source mapping"
+    },
+    {
+      "url": "gitlab.com",
+      "category": "privacy",
+      "description": "Open-source code hosting"
+    },
+    {
+      "url": "codeberg.org",
+      "category": "privacy",
+      "description": "Non-profit code hosting"
+    }
+  ]
+}

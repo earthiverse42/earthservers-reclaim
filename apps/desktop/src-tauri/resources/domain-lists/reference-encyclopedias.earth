@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Reference & Encyclopedias",
+  "description": "Encyclopedias, dictionaries, and general reference resources",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "wikipedia.org", "category": "reference", "trust_score": 0.75 },
+    { "url": "britannica.com", "category": "reference", "trust_score": 0.90 },
+    { "url": "merriam-webster.com", "category": "reference", "trust_score": 0.95 },
+    { "url": "dictionary.com", "category": "reference", "trust_score": 0.85 },
+    { "url": "oxforddictionaries.com", "category": "reference", "trust_score": 0.95 },
+    { "url": "stanford.library.sydney.edu.au", "category": "reference", "trust_score": 0.90 },
+    { "url": "plato.stanford.edu", "category": "reference", "trust_score": 0.95 },
+    { "url": "loc.gov", "category": "reference", "trust_score": 0.95 },
+    { "url": "archive.org", "category": "reference", "trust_score": 0.85 },
+    { "url": "gutenberg.org", "category": "reference", "trust_score": 0.90 },
+    { "url": "wolframalpha.com", "category": "reference", "trust_score": 0.90 },
+    { "url": "khanacademy.org", "category": "reference", "trust_score": 0.85 }
+  ]
+}

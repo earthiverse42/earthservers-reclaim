@@ -1,0 +1,59 @@
+{
+  "list_name": "News - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Reputable news sources, wire services, and investigative journalism",
+  "category": "news",
+  "domains": [
+    {
+      "url": "reuters.com",
+      "category": "news",
+      "description": "International news wire service"
+    },
+    {
+      "url": "apnews.com",
+      "category": "news",
+      "description": "Associated Press news"
+    },
+    {
+      "url": "bbc.com",
+      "category": "news",
+      "description": "British Broadcasting Corporation"
+    },
+    {
+      "url": "theguardian.com",
+      "category": "news",
+      "description": "UK newspaper and international news"
+    },
+    {
+      "url": "npr.org",
+      "category": "news",
+      "description": "National Public Radio"
+    },
+    {
+      "url": "propublica.org",
+      "category": "news",
+      "description": "Investigative journalism nonprofit"
+    },
+    {
+      "url": "aljazeera.com",
+      "category": "news",
+      "description": "International news network"
+    },
+    {
+      "url": "politico.com",
+      "category": "news",
+      "description": "Political news and analysis"
+    },
+    {
+      "url": "theatlantic.com",
+      "category": "news",
+      "description": "Magazine with news and culture"
+    },
+    {
+      "url": "economist.com",
+      "category": "news",
+      "description": "International affairs and business"
+    }
+  ]
+}

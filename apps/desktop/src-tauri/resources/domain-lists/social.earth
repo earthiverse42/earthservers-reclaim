@@ -1,0 +1,59 @@
+{
+  "list_name": "Social - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Privacy-focused social platforms and federated networks",
+  "category": "social",
+  "domains": [
+    {
+      "url": "mastodon.social",
+      "category": "social",
+      "description": "Federated microblogging"
+    },
+    {
+      "url": "lemmy.world",
+      "category": "social",
+      "description": "Federated link aggregator"
+    },
+    {
+      "url": "pixelfed.social",
+      "category": "social",
+      "description": "Federated photo sharing"
+    },
+    {
+      "url": "diasporafoundation.org",
+      "category": "social",
+      "description": "Decentralized social network"
+    },
+    {
+      "url": "matrix.org",
+      "category": "social",
+      "description": "Decentralized communication"
+    },
+    {
+      "url": "signal.org",
+      "category": "social",
+      "description": "Private messaging"
+    },
+    {
+      "url": "discord.com",
+      "category": "social",
+      "description": "Community chat platform"
+    },
+    {
+      "url": "reddit.com",
+      "category": "social",
+      "description": "Community discussion boards"
+    },
+    {
+      "url": "lobste.rs",
+      "category": "social",
+      "description": "Tech community discussion"
+    },
+    {
+      "url": "tildes.net",
+      "category": "social",
+      "description": "Non-profit link aggregator"
+    }
+  ]
+}

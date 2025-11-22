@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Privacy & Security",
+  "description": "Privacy-focused resources, security tools, and digital rights organizations",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "eff.org", "category": "privacy", "trust_score": 0.90 },
+    { "url": "privacytools.io", "category": "privacy", "trust_score": 0.85 },
+    { "url": "torproject.org", "category": "privacy", "trust_score": 0.85 },
+    { "url": "signal.org", "category": "privacy", "trust_score": 0.90 },
+    { "url": "mozilla.org", "category": "privacy", "trust_score": 0.85 },
+    { "url": "accessnow.org", "category": "privacy", "trust_score": 0.85 },
+    { "url": "epic.org", "category": "privacy", "trust_score": 0.85 },
+    { "url": "krebs0nsecurity.com", "category": "security", "trust_score": 0.90 },
+    { "url": "schneier.com", "category": "security", "trust_score": 0.90 },
+    { "url": "haveibeenpwned.com", "category": "security", "trust_score": 0.90 },
+    { "url": "cisa.gov", "category": "security", "trust_score": 0.90 },
+    { "url": "nist.gov", "category": "security", "trust_score": 0.95 }
+  ]
+}

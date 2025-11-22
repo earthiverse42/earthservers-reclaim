@@ -1,0 +1,59 @@
+{
+  "list_name": "Science - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Peer-reviewed journals, scientific research, and space exploration",
+  "category": "science",
+  "domains": [
+    {
+      "url": "nature.com",
+      "category": "science",
+      "description": "Leading international science journal"
+    },
+    {
+      "url": "science.org",
+      "category": "science",
+      "description": "AAAS science journal and news"
+    },
+    {
+      "url": "scientificamerican.com",
+      "category": "science",
+      "description": "Science journalism for general audience"
+    },
+    {
+      "url": "quantamagazine.org",
+      "category": "science",
+      "description": "Math and science journalism"
+    },
+    {
+      "url": "arxiv.org",
+      "category": "science",
+      "description": "Open-access research preprints"
+    },
+    {
+      "url": "phys.org",
+      "category": "science",
+      "description": "Science and research news"
+    },
+    {
+      "url": "nasa.gov",
+      "category": "science",
+      "description": "NASA space exploration and research"
+    },
+    {
+      "url": "esa.int",
+      "category": "science",
+      "description": "European Space Agency"
+    },
+    {
+      "url": "sciencedaily.com",
+      "category": "science",
+      "description": "Science news aggregator"
+    },
+    {
+      "url": "newscientist.com",
+      "category": "science",
+      "description": "Science news and features"
+    }
+  ]
+}

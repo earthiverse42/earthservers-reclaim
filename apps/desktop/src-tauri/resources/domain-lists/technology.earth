@@ -1,0 +1,59 @@
+{
+  "list_name": "Technology - Curated",
+  "version": "1.0",
+  "author": "Earth Reclaim",
+  "description": "Quality technology news, development resources, and open-source communities",
+  "category": "technology",
+  "domains": [
+    {
+      "url": "arstechnica.com",
+      "category": "technology",
+      "description": "In-depth technology journalism and analysis"
+    },
+    {
+      "url": "theverge.com",
+      "category": "technology",
+      "description": "Technology news and reviews"
+    },
+    {
+      "url": "techdirt.com",
+      "category": "technology",
+      "description": "Technology policy and digital rights"
+    },
+    {
+      "url": "hackernews.ycombinator.com",
+      "category": "technology",
+      "description": "Tech community discussion board"
+    },
+    {
+      "url": "lwn.net",
+      "category": "technology",
+      "description": "Linux and open-source news"
+    },
+    {
+      "url": "stackoverflow.com",
+      "category": "technology",
+      "description": "Developer Q&A community"
+    },
+    {
+      "url": "github.com",
+      "category": "technology",
+      "description": "Code hosting and collaboration"
+    },
+    {
+      "url": "fosspost.org",
+      "category": "technology",
+      "description": "Free and open-source software news"
+    },
+    {
+      "url": "omgubuntu.co.uk",
+      "category": "technology",
+      "description": "Ubuntu and Linux news"
+    },
+    {
+      "url": "phoronix.com",
+      "category": "technology",
+      "description": "Linux hardware and performance"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "type": "earthservers-list",
+  "name": "Government & Official Sources",
+  "description": "Government agencies, official statistics, and public records",
+  "author": "EarthServers",
+  "list_version": "1.0.0",
+  "domains": [
+    { "url": "usa.gov", "category": "government", "trust_score": 0.90 },
+    { "url": "whitehouse.gov", "category": "government", "trust_score": 0.85 },
+    { "url": "congress.gov", "category": "government", "trust_score": 0.90 },
+    { "url": "senate.gov", "category": "government", "trust_score": 0.90 },
+    { "url": "house.gov", "category": "government", "trust_score": 0.90 },
+    { "url": "supremecourt.gov", "category": "government", "trust_score": 0.95 },
+    { "url": "census.gov", "category": "government", "trust_score": 0.95 },
+    { "url": "bls.gov", "category": "government", "trust_score": 0.95 },
+    { "url": "fda.gov", "category": "government", "trust_score": 0.90 },
+    { "url": "epa.gov", "category": "government", "trust_score": 0.85 },
+    { "url": "nasa.gov", "category": "government", "trust_score": 0.95 },
+    { "url": "noaa.gov", "category": "government", "trust_score": 0.95 },
+    { "url": "gov.uk", "category": "government", "trust_score": 0.85 },
+    { "url": "europa.eu", "category": "government", "trust_score": 0.85 },
+    { "url": "un.org", "category": "government", "trust_score": 0.80 },
+    { "url": "worldbank.org", "category": "government", "trust_score": 0.85 },
+    { "url": "imf.org", "category": "government", "trust_score": 0.80 }
+  ]
+}
