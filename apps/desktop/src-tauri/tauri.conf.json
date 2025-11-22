@@ -11,6 +11,14 @@
     "version": "0.1.0"
   },
   "tauri": {
+    "updater": {
+      "active": true,
+      "endpoints": [
+        "https://github.com/earthiverse42/earthservers-reclaim/releases/latest/download/latest.json"
+      ],
+      "dialog": true,
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDc0NDM3Mzk1NDhDMTY4RTIKUldUaWFNRklsWE5EZFBlenRjUjBZMjZGamYyM3ZBWk13bUY4RkpRYWhlUlJFY3kvc3JXU2NBZ3cK"
+    }
     "allowlist": {
       "all": false,
       "shell": {
